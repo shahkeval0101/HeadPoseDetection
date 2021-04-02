@@ -1,4 +1,3 @@
-#Using pip
 pip install opencv-python
 pip install tensorflow
 detect face.py - detects face
