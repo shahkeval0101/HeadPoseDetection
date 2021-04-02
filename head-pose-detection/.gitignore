@@ -1,0 +1,6 @@
+.git/
+.vscode/
+.venv/
+test.jpg
+test-result.jpg
+my-results-folder/
